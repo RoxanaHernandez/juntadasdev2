@@ -1,4 +1,4 @@
-img{
+.imglogo{
     height: 100px;
     width: 100px;
 }
@@ -10,4 +10,8 @@ font-size: 1.5rem;
 
 #navbar{
     height: 100px;
+}
+
+#navbarResponsive{
+    background-color: #343a40;
 }
